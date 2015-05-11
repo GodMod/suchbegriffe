@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd" languagecode="en">
+	
+	<category name="wcf.acp.menu">
+		<item name="wcf.acp.menu.link.log.search.keywords"><![CDATA[Search terms]]></item>
+	</category>
+	
+	<category name="wcf.acp.search">
+		<item name="wcf.acp.search.keyword.list"><![CDATA[Search terms]]></item>
+		<item name="wcf.acp.search.keyword.lastSearchTime"><![CDATA[Last search]]></item>
+		<item name="wcf.acp.search.keyword.keyword"><![CDATA[Search term]]></item>
+		<item name="wcf.acp.search.keyword.searches"><![CDATA[Number of searches]]></item>
+	</category>
+</language>
